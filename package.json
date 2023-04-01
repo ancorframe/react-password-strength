@@ -2,7 +2,7 @@
   "name": "react-template-gh-pages",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ancorframe.github.io/react-template-gh-pages/",
+  "homepage": "https://ancorframe.github.io/react-password-strength/",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
